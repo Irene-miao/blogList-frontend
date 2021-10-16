@@ -1,0 +1,46 @@
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.NEW_MESSAGE {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.contact, blog {
+  color: grey;
+  padding: 3px;
+  font-size: 15px;
+  border: 2px solid black;
+  margin:3px;
+}
+
+input {
+  margin-left: 3px;
+}
+
+.link {
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+  margin: 5px;
+  gap: 5px;
+}
+
+.form {
+  margin-right: 10px;
+  margin-left: 10px;
+}
