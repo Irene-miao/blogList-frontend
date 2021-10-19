@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Blog App
+The blog app allows users to list of users and blog posts created. It also allow users to create a new blog post, add comments under each post or likes.
+It is hosted at https://blogapp-2021.herokuapp.com/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
