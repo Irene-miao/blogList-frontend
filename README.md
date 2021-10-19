@@ -1,5 +1,5 @@
 # Blog App
-The blog app allows users to list of users and blog posts created. It also allow users to create a new blog post, add comments under each post or likes.
+The blog app allows users to look at list of users and blog posts created. It also allow users to create a new blog post, add comments under each post or likes.
 It is hosted at https://blogapp-2021.herokuapp.com/
 
 ## Getting Started with Create React App
